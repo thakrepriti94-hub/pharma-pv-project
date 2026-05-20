@@ -1,0 +1,18 @@
+drug_name,adverse_event,report_count,ror_value,ci_lower,ci_upper,signal_strength
+Lisinopril,Headache,8,5.056,2.081,12.287,Strong
+Ibuprofen,Stevens-Johnson Syndrome,3,4.823,1.288,18.054,Moderate
+Aspirin,Kidney failure,5,4.5,1.56,12.983,Moderate
+Amlodipine,Vomiting,6,3.851,1.447,10.248,Moderate
+Glimepiride,Itching,4,3.806,1.204,12.033,Moderate
+Losartan,Headache,5,3.717,1.308,10.561,Moderate
+Ciprofloxacin,Dizziness,6,3.689,1.396,9.752,Moderate
+Cetirizine,Hypotension,6,3.667,1.393,9.654,Moderate
+Amlodipine,Thrombocytopenia,5,3.506,1.224,10.038,Moderate
+Metformin,Dizziness,4,3.403,1.087,10.655,Moderate
+Azithromycin,Abdominal pain,6,3.391,1.295,8.879,Moderate
+Losartan,Liver toxicity,4,3.289,1.052,10.285,Moderate
+Glimepiride,Rash,4,3.252,1.038,10.187,Moderate
+Amlodipine,Edema,6,3.152,1.206,8.238,Moderate
+Pantoprazole,Headache,5,2.858,1.022,7.991,Moderate
+Lisinopril,Cardiac arrhythmia,6,2.855,1.102,7.398,Moderate
+Atorvastatin,Abdominal pain,6,2.802,1.081,7.261,Moderate

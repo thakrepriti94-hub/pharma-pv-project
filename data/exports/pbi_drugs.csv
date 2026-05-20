@@ -1,0 +1,16 @@
+drug_name,total_reports,serious_reports,fatal_reports,avg_patient_age,avg_onset_days
+Atorvastatin,43,22,2,48.7,30.0
+Amlodipine,42,24,4,52.9,28.6
+Lisinopril,41,23,6,51.9,27.5
+Ciprofloxacin,40,20,2,54.0,27.3
+Omeprazole,38,15,5,48.4,31.2
+Pantoprazole,37,22,3,47.2,37.8
+Azithromycin,37,18,8,50.4,28.4
+Cetirizine,36,17,3,46.5,28.7
+Amoxicillin,33,22,6,55.7,29.8
+Losartan,30,18,1,48.8,29.9
+Aspirin,30,15,5,49.4,25.3
+Metformin,27,20,1,55.2,27.5
+Glimepiride,23,15,1,52.7,33.1
+Paracetamol,22,11,0,48.7,34.5
+Ibuprofen,21,14,5,58.6,30.1

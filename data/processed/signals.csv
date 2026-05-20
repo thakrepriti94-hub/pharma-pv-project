@@ -1,0 +1,239 @@
+drug_name,adverse_event,report_count,ror_value,ci_lower,ci_upper,signal_strength,detected_date,status
+Amlodipine,Abdominal pain,3,1.181,0.344,4.062,Weak,2026-05-20,New
+Amlodipine,Anaphylaxis,1,0.674,0.087,5.21,No signal,2026-05-20,New
+Amlodipine,Constipation,1,0.441,0.058,3.344,No signal,2026-05-20,New
+Amlodipine,Diarrhea,2,1.095,0.247,4.855,Weak,2026-05-20,New
+Amlodipine,Dizziness,1,0.405,0.054,3.064,No signal,2026-05-20,New
+Amlodipine,Edema,6,3.152,1.206,8.238,Moderate,2026-05-20,New
+Amlodipine,Fatigue,3,1.685,0.479,5.921,Weak,2026-05-20,New
+Amlodipine,Fever,2,1.477,0.326,6.688,Weak,2026-05-20,New
+Amlodipine,Headache,1,0.375,0.05,2.824,No signal,2026-05-20,New
+Amlodipine,Hypotension,1,0.361,0.048,2.717,No signal,2026-05-20,New
+Amlodipine,Insomnia,3,2.272,0.63,8.188,Weak,2026-05-20,New
+Amlodipine,Itching,1,0.375,0.05,2.824,No signal,2026-05-20,New
+Amlodipine,Kidney failure,2,0.946,0.215,4.157,No signal,2026-05-20,New
+Amlodipine,Nausea,2,1.095,0.247,4.855,Weak,2026-05-20,New
+Amlodipine,Rash,2,0.689,0.159,2.984,No signal,2026-05-20,New
+Amlodipine,Thrombocytopenia,5,3.506,1.224,10.038,Moderate,2026-05-20,New
+Amlodipine,Vomiting,6,3.851,1.447,10.248,Moderate,2026-05-20,New
+Amoxicillin,Abdominal pain,1,0.455,0.06,3.447,No signal,2026-05-20,New
+Amoxicillin,Anaphylaxis,2,1.944,0.425,8.886,Weak,2026-05-20,New
+Amoxicillin,Cardiac arrhythmia,3,1.51,0.435,5.245,Weak,2026-05-20,New
+Amoxicillin,Constipation,4,2.929,0.943,9.099,Weak,2026-05-20,New
+Amoxicillin,Edema,2,1.051,0.239,4.627,Weak,2026-05-20,New
+Amoxicillin,Fatigue,2,1.37,0.307,6.113,Weak,2026-05-20,New
+Amoxicillin,Headache,1,0.49,0.065,3.718,No signal,2026-05-20,New
+Amoxicillin,Hypotension,2,1.012,0.23,4.444,Weak,2026-05-20,New
+Amoxicillin,Insomnia,3,3.013,0.827,10.985,Weak,2026-05-20,New
+Amoxicillin,Itching,3,1.696,0.485,5.926,Weak,2026-05-20,New
+Amoxicillin,Liver toxicity,2,1.245,0.281,5.527,Weak,2026-05-20,New
+Amoxicillin,Rash,3,1.457,0.42,5.05,Weak,2026-05-20,New
+Amoxicillin,Thrombocytopenia,2,1.442,0.322,6.452,Weak,2026-05-20,New
+Amoxicillin,Vomiting,3,2.023,0.573,7.143,Weak,2026-05-20,New
+Aspirin,Abdominal pain,2,1.086,0.247,4.786,Weak,2026-05-20,New
+Aspirin,Cardiac arrhythmia,1,0.488,0.064,3.705,No signal,2026-05-20,New
+Aspirin,Constipation,1,0.641,0.084,4.905,No signal,2026-05-20,New
+Aspirin,Diarrhea,2,1.607,0.358,7.223,Weak,2026-05-20,New
+Aspirin,Edema,2,1.172,0.265,5.181,Weak,2026-05-20,New
+Aspirin,Fever,2,2.167,0.472,9.946,Weak,2026-05-20,New
+Aspirin,Hypotension,2,1.128,0.256,4.976,Weak,2026-05-20,New
+Aspirin,Insomnia,1,0.919,0.118,7.148,No signal,2026-05-20,New
+Aspirin,Itching,2,1.172,0.265,5.181,Weak,2026-05-20,New
+Aspirin,Kidney failure,5,4.5,1.56,12.983,Moderate,2026-05-20,New
+Aspirin,Liver toxicity,2,1.388,0.311,6.188,Weak,2026-05-20,New
+Aspirin,Nausea,2,1.607,0.358,7.223,Weak,2026-05-20,New
+Aspirin,Rash,3,1.63,0.467,5.681,Weak,2026-05-20,New
+Aspirin,Stevens-Johnson Syndrome,1,0.866,0.112,6.716,No signal,2026-05-20,New
+Aspirin,Thrombocytopenia,1,0.737,0.096,5.676,No signal,2026-05-20,New
+Aspirin,Vomiting,1,0.641,0.084,4.905,No signal,2026-05-20,New
+Atorvastatin,Abdominal pain,6,2.802,1.081,7.261,Moderate,2026-05-20,New
+Atorvastatin,Anaphylaxis,2,1.437,0.318,6.505,Weak,2026-05-20,New
+Atorvastatin,Cardiac arrhythmia,3,1.107,0.323,3.795,Weak,2026-05-20,New
+Atorvastatin,Constipation,2,0.92,0.21,4.044,No signal,2026-05-20,New
+Atorvastatin,Diarrhea,2,1.066,0.241,4.722,Weak,2026-05-20,New
+Atorvastatin,Dizziness,4,1.935,0.637,5.88,Weak,2026-05-20,New
+Atorvastatin,Fatigue,3,1.639,0.467,5.754,Weak,2026-05-20,New
+Atorvastatin,Fever,2,1.437,0.318,6.505,Weak,2026-05-20,New
+Atorvastatin,Headache,2,0.777,0.178,3.384,No signal,2026-05-20,New
+Atorvastatin,Hypotension,2,0.747,0.172,3.25,No signal,2026-05-20,New
+Atorvastatin,Insomnia,1,0.616,0.08,4.746,No signal,2026-05-20,New
+Atorvastatin,Itching,1,0.365,0.048,2.749,No signal,2026-05-20,New
+Atorvastatin,Kidney failure,3,1.483,0.425,5.171,Weak,2026-05-20,New
+Atorvastatin,Liver toxicity,3,1.483,0.425,5.171,Weak,2026-05-20,New
+Atorvastatin,Nausea,1,0.494,0.065,3.768,No signal,2026-05-20,New
+Atorvastatin,Rash,2,0.67,0.155,2.902,No signal,2026-05-20,New
+Atorvastatin,Thrombocytopenia,2,1.066,0.241,4.722,Weak,2026-05-20,New
+Atorvastatin,Vomiting,2,0.92,0.21,4.044,No signal,2026-05-20,New
+Azithromycin,Abdominal pain,6,3.391,1.295,8.879,Moderate,2026-05-20,New
+Azithromycin,Anaphylaxis,1,0.776,0.1,6.02,No signal,2026-05-20,New
+Azithromycin,Cardiac arrhythmia,2,0.825,0.189,3.595,No signal,2026-05-20,New
+Azithromycin,Constipation,1,0.508,0.067,3.865,No signal,2026-05-20,New
+Azithromycin,Diarrhea,1,0.585,0.076,4.473,No signal,2026-05-20,New
+Azithromycin,Dizziness,1,0.467,0.062,3.541,No signal,2026-05-20,New
+Azithromycin,Edema,1,0.432,0.057,3.264,No signal,2026-05-20,New
+Azithromycin,Fatigue,4,2.833,0.911,8.81,Weak,2026-05-20,New
+Azithromycin,Fever,1,0.776,0.1,6.02,No signal,2026-05-20,New
+Azithromycin,Headache,1,0.432,0.057,3.264,No signal,2026-05-20,New
+Azithromycin,Hypotension,1,0.416,0.055,3.141,No signal,2026-05-20,New
+Azithromycin,Itching,1,0.432,0.057,3.264,No signal,2026-05-20,New
+Azithromycin,Kidney failure,3,1.769,0.504,6.209,Weak,2026-05-20,New
+Azithromycin,Liver toxicity,4,2.551,0.827,7.868,Weak,2026-05-20,New
+Azithromycin,Nausea,4,2.997,0.959,9.367,Weak,2026-05-20,New
+Azithromycin,Rash,1,0.374,0.05,2.818,No signal,2026-05-20,New
+Azithromycin,Stevens-Johnson Syndrome,1,0.687,0.089,5.293,No signal,2026-05-20,New
+Azithromycin,Thrombocytopenia,2,1.266,0.284,5.637,Weak,2026-05-20,New
+Azithromycin,Vomiting,1,0.508,0.067,3.865,No signal,2026-05-20,New
+Cetirizine,Cardiac arrhythmia,2,0.851,0.195,3.713,No signal,2026-05-20,New
+Cetirizine,Diarrhea,2,1.306,0.293,5.822,Weak,2026-05-20,New
+Cetirizine,Dizziness,2,1.033,0.235,4.547,Weak,2026-05-20,New
+Cetirizine,Edema,2,0.952,0.217,4.175,No signal,2026-05-20,New
+Cetirizine,Fever,2,1.761,0.387,8.019,Weak,2026-05-20,New
+Cetirizine,Headache,4,2.195,0.72,6.693,Weak,2026-05-20,New
+Cetirizine,Hypotension,6,3.667,1.393,9.654,Moderate,2026-05-20,New
+Cetirizine,Insomnia,3,2.721,0.75,9.876,Weak,2026-05-20,New
+Cetirizine,Kidney failure,3,1.826,0.52,6.42,Weak,2026-05-20,New
+Cetirizine,Liver toxicity,3,1.826,0.52,6.42,Weak,2026-05-20,New
+Cetirizine,Nausea,1,0.603,0.079,4.614,No signal,2026-05-20,New
+Cetirizine,Rash,2,0.822,0.189,3.58,No signal,2026-05-20,New
+Cetirizine,Stevens-Johnson Syndrome,2,1.547,0.343,6.974,Weak,2026-05-20,New
+Cetirizine,Vomiting,2,1.128,0.255,4.987,Weak,2026-05-20,New
+Ciprofloxacin,Abdominal pain,4,1.782,0.591,5.373,Weak,2026-05-20,New
+Ciprofloxacin,Anaphylaxis,1,0.712,0.092,5.509,No signal,2026-05-20,New
+Ciprofloxacin,Cardiac arrhythmia,3,1.205,0.35,4.144,Weak,2026-05-20,New
+Ciprofloxacin,Constipation,2,1.0,0.227,4.404,No signal,2026-05-20,New
+Ciprofloxacin,Diarrhea,1,0.536,0.07,4.092,No signal,2026-05-20,New
+Ciprofloxacin,Dizziness,6,3.689,1.396,9.752,Moderate,2026-05-20,New
+Ciprofloxacin,Edema,2,0.844,0.193,3.686,No signal,2026-05-20,New
+Ciprofloxacin,Fatigue,2,1.1,0.249,4.871,Weak,2026-05-20,New
+Ciprofloxacin,Fever,1,0.712,0.092,5.509,No signal,2026-05-20,New
+Ciprofloxacin,Hypotension,1,0.381,0.051,2.873,No signal,2026-05-20,New
+Ciprofloxacin,Insomnia,1,0.668,0.087,5.155,No signal,2026-05-20,New
+Ciprofloxacin,Itching,2,0.844,0.193,3.686,No signal,2026-05-20,New
+Ciprofloxacin,Kidney failure,1,0.466,0.061,3.536,No signal,2026-05-20,New
+Ciprofloxacin,Nausea,2,1.158,0.261,5.142,Weak,2026-05-20,New
+Ciprofloxacin,Rash,2,0.728,0.168,3.161,No signal,2026-05-20,New
+Ciprofloxacin,Stevens-Johnson Syndrome,3,2.25,0.627,8.076,Weak,2026-05-20,New
+Ciprofloxacin,Thrombocytopenia,3,1.882,0.532,6.655,Weak,2026-05-20,New
+Ciprofloxacin,Vomiting,3,1.614,0.462,5.646,Weak,2026-05-20,New
+Glimepiride,Abdominal pain,1,0.677,0.088,5.197,No signal,2026-05-20,New
+Glimepiride,Anaphylaxis,1,1.31,0.166,10.328,Weak,2026-05-20,New
+Glimepiride,Cardiac arrhythmia,1,0.654,0.085,5.014,No signal,2026-05-20,New
+Glimepiride,Constipation,1,0.858,0.111,6.636,No signal,2026-05-20,New
+Glimepiride,Diarrhea,1,0.987,0.127,7.677,No signal,2026-05-20,New
+Glimepiride,Dizziness,1,0.788,0.102,6.08,No signal,2026-05-20,New
+Glimepiride,Edema,3,2.602,0.726,9.323,Weak,2026-05-20,New
+Glimepiride,Fatigue,1,0.94,0.121,7.297,No signal,2026-05-20,New
+Glimepiride,Hypotension,1,0.702,0.091,5.395,No signal,2026-05-20,New
+Glimepiride,Itching,4,3.806,1.204,12.033,Moderate,2026-05-20,New
+Glimepiride,Kidney failure,1,0.858,0.111,6.636,No signal,2026-05-20,New
+Glimepiride,Liver toxicity,1,0.858,0.111,6.636,No signal,2026-05-20,New
+Glimepiride,Nausea,1,0.987,0.127,7.677,No signal,2026-05-20,New
+Glimepiride,Rash,4,3.252,1.038,10.187,Moderate,2026-05-20,New
+Glimepiride,Vomiting,1,0.858,0.111,6.636,No signal,2026-05-20,New
+Ibuprofen,Abdominal pain,1,0.748,0.097,5.767,No signal,2026-05-20,New
+Ibuprofen,Anaphylaxis,1,1.447,0.183,11.458,Weak,2026-05-20,New
+Ibuprofen,Cardiac arrhythmia,2,1.575,0.35,7.083,Weak,2026-05-20,New
+Ibuprofen,Constipation,2,2.087,0.458,9.505,Weak,2026-05-20,New
+Ibuprofen,Diarrhea,1,1.09,0.14,8.517,Weak,2026-05-20,New
+Ibuprofen,Edema,1,0.805,0.104,6.221,No signal,2026-05-20,New
+Ibuprofen,Hypotension,2,1.695,0.376,7.646,Weak,2026-05-20,New
+Ibuprofen,Itching,1,0.805,0.104,6.221,No signal,2026-05-20,New
+Ibuprofen,Liver toxicity,1,0.948,0.122,7.363,No signal,2026-05-20,New
+Ibuprofen,Nausea,2,2.416,0.526,11.093,Weak,2026-05-20,New
+Ibuprofen,Rash,1,0.698,0.091,5.372,No signal,2026-05-20,New
+Ibuprofen,Stevens-Johnson Syndrome,3,4.823,1.288,18.054,Moderate,2026-05-20,New
+Ibuprofen,Thrombocytopenia,1,1.09,0.14,8.517,Weak,2026-05-20,New
+Ibuprofen,Vomiting,2,2.087,0.458,9.505,Weak,2026-05-20,New
+Lisinopril,Abdominal pain,2,0.76,0.175,3.307,No signal,2026-05-20,New
+Lisinopril,Anaphylaxis,1,0.692,0.089,5.356,No signal,2026-05-20,New
+Lisinopril,Cardiac arrhythmia,6,2.855,1.102,7.398,Moderate,2026-05-20,New
+Lisinopril,Constipation,1,0.453,0.06,3.438,No signal,2026-05-20,New
+Lisinopril,Diarrhea,2,1.126,0.254,4.995,Weak,2026-05-20,New
+Lisinopril,Edema,2,0.821,0.188,3.58,No signal,2026-05-20,New
+Lisinopril,Fatigue,1,0.497,0.065,3.781,No signal,2026-05-20,New
+Lisinopril,Fever,1,0.692,0.089,5.356,No signal,2026-05-20,New
+Lisinopril,Headache,8,5.056,2.081,12.287,Strong,2026-05-20,New
+Lisinopril,Hypotension,4,1.8,0.596,5.435,Weak,2026-05-20,New
+Lisinopril,Insomnia,1,0.65,0.084,5.012,No signal,2026-05-20,New
+Lisinopril,Itching,3,1.315,0.38,4.545,Weak,2026-05-20,New
+Lisinopril,Kidney failure,2,0.972,0.221,4.277,No signal,2026-05-20,New
+Lisinopril,Liver toxicity,1,0.453,0.06,3.438,No signal,2026-05-20,New
+Lisinopril,Nausea,1,0.521,0.068,3.978,No signal,2026-05-20,New
+Lisinopril,Rash,1,0.334,0.044,2.506,No signal,2026-05-20,New
+Lisinopril,Stevens-Johnson Syndrome,2,1.333,0.297,5.983,Weak,2026-05-20,New
+Lisinopril,Thrombocytopenia,2,1.126,0.254,4.995,Weak,2026-05-20,New
+Losartan,Abdominal pain,2,1.086,0.247,4.786,Weak,2026-05-20,New
+Losartan,Anaphylaxis,1,0.978,0.125,7.638,No signal,2026-05-20,New
+Losartan,Cardiac arrhythmia,3,1.69,0.484,5.901,Weak,2026-05-20,New
+Losartan,Constipation,2,1.388,0.311,6.188,Weak,2026-05-20,New
+Losartan,Diarrhea,2,1.607,0.358,7.223,Weak,2026-05-20,New
+Losartan,Fatigue,1,0.702,0.091,5.395,No signal,2026-05-20,New
+Losartan,Headache,5,3.717,1.308,10.561,Moderate,2026-05-20,New
+Losartan,Hypotension,2,1.128,0.256,4.976,Weak,2026-05-20,New
+Losartan,Insomnia,1,0.919,0.118,7.148,No signal,2026-05-20,New
+Losartan,Itching,2,1.172,0.265,5.181,Weak,2026-05-20,New
+Losartan,Liver toxicity,4,3.289,1.052,10.285,Moderate,2026-05-20,New
+Losartan,Rash,3,1.63,0.467,5.681,Weak,2026-05-20,New
+Losartan,Stevens-Johnson Syndrome,1,0.866,0.112,6.716,No signal,2026-05-20,New
+Losartan,Thrombocytopenia,1,0.737,0.096,5.676,No signal,2026-05-20,New
+Metformin,Anaphylaxis,2,2.443,0.529,11.274,Weak,2026-05-20,New
+Metformin,Cardiac arrhythmia,2,1.181,0.267,5.226,Weak,2026-05-20,New
+Metformin,Constipation,3,2.562,0.717,9.164,Weak,2026-05-20,New
+Metformin,Diarrhea,2,1.812,0.401,8.189,Weak,2026-05-20,New
+Metformin,Dizziness,4,3.403,1.087,10.655,Moderate,2026-05-20,New
+Metformin,Edema,2,1.321,0.297,5.874,Weak,2026-05-20,New
+Metformin,Fatigue,2,1.722,0.382,7.758,Weak,2026-05-20,New
+Metformin,Fever,1,1.099,0.14,8.607,Weak,2026-05-20,New
+Metformin,Hypotension,3,2.065,0.585,7.291,Weak,2026-05-20,New
+Metformin,Insomnia,1,1.032,0.132,8.056,Weak,2026-05-20,New
+Metformin,Itching,1,0.611,0.08,4.671,No signal,2026-05-20,New
+Metformin,Kidney failure,1,0.72,0.094,5.529,No signal,2026-05-20,New
+Metformin,Nausea,3,2.987,0.826,10.797,Weak,2026-05-20,New
+Omeprazole,Abdominal pain,1,0.389,0.052,2.935,No signal,2026-05-20,New
+Omeprazole,Anaphylaxis,2,1.656,0.364,7.524,Weak,2026-05-20,New
+Omeprazole,Cardiac arrhythmia,3,1.28,0.371,4.412,Weak,2026-05-20,New
+Omeprazole,Constipation,1,0.493,0.065,3.749,No signal,2026-05-20,New
+Omeprazole,Diarrhea,1,0.568,0.074,4.339,No signal,2026-05-20,New
+Omeprazole,Dizziness,4,2.246,0.734,6.866,Weak,2026-05-20,New
+Omeprazole,Edema,1,0.419,0.055,3.167,No signal,2026-05-20,New
+Omeprazole,Fatigue,1,0.541,0.071,4.124,No signal,2026-05-20,New
+Omeprazole,Fever,3,2.743,0.752,10.0,Weak,2026-05-20,New
+Omeprazole,Headache,2,0.895,0.205,3.916,No signal,2026-05-20,New
+Omeprazole,Hypotension,1,0.404,0.053,3.047,No signal,2026-05-20,New
+Omeprazole,Itching,4,2.056,0.677,6.251,Weak,2026-05-20,New
+Omeprazole,Kidney failure,2,1.06,0.24,4.679,Weak,2026-05-20,New
+Omeprazole,Liver toxicity,1,0.493,0.065,3.749,No signal,2026-05-20,New
+Omeprazole,Nausea,1,0.568,0.074,4.339,No signal,2026-05-20,New
+Omeprazole,Rash,3,1.234,0.359,4.247,Weak,2026-05-20,New
+Omeprazole,Stevens-Johnson Syndrome,2,1.454,0.323,6.544,Weak,2026-05-20,New
+Omeprazole,Thrombocytopenia,1,0.568,0.074,4.339,No signal,2026-05-20,New
+Omeprazole,Vomiting,4,2.471,0.802,7.608,Weak,2026-05-20,New
+Pantoprazole,Abdominal pain,2,0.855,0.196,3.733,No signal,2026-05-20,New
+Pantoprazole,Anaphylaxis,2,1.707,0.375,7.764,Weak,2026-05-20,New
+Pantoprazole,Cardiac arrhythmia,1,0.387,0.051,2.919,No signal,2026-05-20,New
+Pantoprazole,Constipation,2,1.093,0.248,4.828,Weak,2026-05-20,New
+Pantoprazole,Diarrhea,2,1.266,0.284,5.637,Weak,2026-05-20,New
+Pantoprazole,Dizziness,1,0.467,0.062,3.541,No signal,2026-05-20,New
+Pantoprazole,Edema,4,2.124,0.698,6.465,Weak,2026-05-20,New
+Pantoprazole,Fever,2,1.707,0.375,7.764,Weak,2026-05-20,New
+Pantoprazole,Headache,5,2.858,1.022,7.991,Moderate,2026-05-20,New
+Pantoprazole,Insomnia,1,0.729,0.094,5.634,No signal,2026-05-20,New
+Pantoprazole,Itching,2,0.923,0.211,4.042,No signal,2026-05-20,New
+Pantoprazole,Kidney failure,1,0.508,0.067,3.865,No signal,2026-05-20,New
+Pantoprazole,Liver toxicity,3,1.769,0.504,6.209,Weak,2026-05-20,New
+Pantoprazole,Nausea,1,0.585,0.076,4.473,No signal,2026-05-20,New
+Pantoprazole,Rash,4,1.814,0.602,5.47,Weak,2026-05-20,New
+Pantoprazole,Stevens-Johnson Syndrome,2,1.499,0.333,6.753,Weak,2026-05-20,New
+Pantoprazole,Thrombocytopenia,2,1.266,0.284,5.637,Weak,2026-05-20,New
+Paracetamol,Constipation,2,1.978,0.436,8.98,Weak,2026-05-20,New
+Paracetamol,Diarrhea,1,1.036,0.133,8.076,Weak,2026-05-20,New
+Paracetamol,Dizziness,3,2.987,0.826,10.797,Weak,2026-05-20,New
+Paracetamol,Edema,1,0.765,0.099,5.898,No signal,2026-05-20,New
+Paracetamol,Fatigue,3,3.616,0.988,13.233,Weak,2026-05-20,New
+Paracetamol,Hypotension,2,1.607,0.358,7.223,Weak,2026-05-20,New
+Paracetamol,Insomnia,2,2.888,0.621,13.424,Weak,2026-05-20,New
+Paracetamol,Itching,2,1.67,0.371,7.52,Weak,2026-05-20,New
+Paracetamol,Kidney failure,1,0.901,0.116,6.981,No signal,2026-05-20,New
+Paracetamol,Nausea,1,1.036,0.133,8.076,Weak,2026-05-20,New
+Paracetamol,Rash,2,1.442,0.322,6.452,Weak,2026-05-20,New
+Paracetamol,Stevens-Johnson Syndrome,2,2.712,0.586,12.549,Weak,2026-05-20,New
