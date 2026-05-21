@@ -4,3 +4,6 @@ scikit-learn
 streamlit
 joblib
 openpyxl
+git add requirements.txt
+git commit -m "added openpyxl dependency"
+git push origin main
