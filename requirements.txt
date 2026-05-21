@@ -1,9 +1,3 @@
-pandas
-matplotlib
-scikit-learn
-streamlit
-joblib
-openpyxl
 git add requirements.txt
-git commit -m "added openpyxl dependency"
+git commit -m "fix dependencies"
 git push origin main
